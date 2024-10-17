@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <!-- Security Guard Body -->
+  <rect x="30" y="40" width="40" height="60" fill="#333" />
+
+  <!-- Security Guard Head -->
+  <circle cx="50" cy="30" r="10" fill="#333" />
+
+  <!-- Security Guard Hat -->
+  <rect x="35" y="25" width="30" height="5" fill="#555" />
+
+  <!-- Security Guard Eyes -->
+  <circle cx="45" cy="28" r="1" fill="#fff" />
+  <circle cx="55" cy="28" r="1" fill="#fff" />
+
+  <!-- Security Guard Mouth -->
+  <ellipse cx="50" cy="32" rx="3" ry="1" fill="#fff" />
+</svg>
